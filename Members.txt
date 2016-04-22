@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Le List of members for Team 101:
+=======
+The List of members for Team 101:
+>>>>>>> origin/master
 Joshua Carroll
 Shivani Gopaul 27129411
 Shivang Nagar
