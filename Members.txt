@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Le List of members for Team 101:
 =======
 The List of members for Team 101:
 >>>>>>> origin/master
+=======
+List of Members for Team 101:
+>>>>>>> parent of f1429d2... Just checking if it allows me to commit
 Joshua Carroll
 Shivani Gopaul 27129411
 Shivang Nagar
